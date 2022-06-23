@@ -1,2 +1,1 @@
-# CUSTOMER_API2
-test database
+# CUSTOMERS_API
